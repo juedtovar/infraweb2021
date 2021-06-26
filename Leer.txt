@@ -1,0 +1,12 @@
+Proyecto realizado por los alumnos de la carrera de Ingeniería en Sistemas Computacionales,
+para la materia de Infraestructura de Desarrollo Web. 
+
+Grupo: 5A
+
+Alumnos: Brenda Karime Burgara Ortega	17400957
+	 Juan Eduardo Tovar Andrade	17401087
+
+Descripción del proyecto: Administración de usuarios, Registrar, Eliminar, Editar y Visualizar los registros relacionados a cada uno de los
+		          usuarios registrados. 
+
+Base Datos: MySql
